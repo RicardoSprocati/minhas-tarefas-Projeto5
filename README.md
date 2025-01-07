@@ -22,6 +22,28 @@ Uma aplicação de agenda pessoal para ajudar você a organizar suas tarefas de 
 
 ---
 
+## 🚀 Como rodar o projeto
+
+Siga as etapas abaixo para configurar e rodar o projeto localmente:
+
+1. **Pré-requisitos**  
+   Certifique-se de ter instalado na sua máquina:  
+   - **Node.js** (versão 16 ou superior recomendada)  
+   - **npm** (gerenciador de pacotes do Node, normalmente incluído com o Node.js)  
+
+2. **Clonar o repositório**  
+   Clone o projeto para sua máquina local executando o comando:  
+
+   ```bash
+   git clone https://github.com/RicardoSprocati/minhas-tarefas-Projeto5.git
+
+3. **Instalar as dependências**
+
+   npm install
+4. **Iniciar o servidor de desenvolvimento**
+
+   npm start 
+
 ## Link para o Projeto
 
 O projeto está publicado e pode ser acessado no seguinte endereço:
