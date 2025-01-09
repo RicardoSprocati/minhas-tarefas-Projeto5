@@ -42,7 +42,14 @@ Siga as etapas abaixo para configurar e rodar o projeto localmente:
    npm install
 4. **Iniciar o servidor de desenvolvimento**
 
-   npm start 
+   npm start
+
+---
+
+## Licença
+MIT.
+
+---
 
 ## Link para o Projeto
 
